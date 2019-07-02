@@ -1,4 +1,2 @@
-# curso-react-native
-Curso de React Native pela Udemy desenvolvido pela COD3R com o professor Leonardo Moura Leitão
-
-Este é o meu primeiro curso e contato com React e React Native. 
+# Exercícios
+Capitulo 1 do curso de React Native desenvolvido pela COD3R e distribuído através da plataforma de ensino Udemy.
